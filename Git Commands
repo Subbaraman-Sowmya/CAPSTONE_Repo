@@ -1,1 +1,7 @@
-
+git init
+git configure
+apt install git
+git status
+git checkout
+git branch
+git push origin master
