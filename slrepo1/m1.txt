@@ -1,4 +1,0 @@
-Hello test
-This is for m1 testing
-This is second line of m1
-This is third line of m1
